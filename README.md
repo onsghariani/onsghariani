@@ -5,7 +5,7 @@
 🔍 My goal: turn complex data into actionable insights and build scalable systems to solve real-world problems.
 
 
-## 🛠 Skills
+## 🛠 Technical Skills
   
 ### 👩‍💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
