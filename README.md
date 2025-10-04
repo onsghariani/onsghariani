@@ -1,29 +1,43 @@
 <h1 align="center">👋 Hi, I’m Ons Ghariani</h1>
 
-🎓 Recently graduated in Data Science and Business Intelligence Engineering.  
-💡 Passionate about artificial intelligence, machine learning, and data-driven solutions.  
-🔍 My goal: turn complex data into actionable insights and build scalable systems to solve real-world problems.
+I’m a recent graduate in **Data Science and Business Intelligence Engineering**, passionate about **artificial intelligence, web development, and data-driven solutions**.
 
-
-## 🛠 Technical Skills
+- 🌱 Currently exploring **Retrieval-Augmented Generation (RAG)** and its applications. 
   
-### 👩‍💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+- 🤝 Open to collaborations on **AI, machine learning, and data engineering projects**.  
+  
+- 📫 Reach me at **ons.ghariani2@gmail.com** 
 
-### 📊 Data Manipulation & Visualization  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3182bd?logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+## Connect with me
 
-### 🤖 Machine Learning & AI  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=python&logoColor=black)  
+<a href="https://www.linkedin.com/in/ghariani-ons" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ons-ghariani" height="40" width="40" /></a>
 
-### 🗄️ Databases & Big Data  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apachehive&logoColor=black) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
+## Languages and Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
 
-## 📫 Let's Connect!
-
--  📧 **Email:** ons.ghariani2@gmail.com  
--  💼 **LinkedIn:** [linkedin.com/in/ghariani-ons](https://www.linkedin.com/in/ghariani-ons)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
+</p>
 
 
 
